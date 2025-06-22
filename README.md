@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [EduMentor-AI](https://edumentor-ai.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://lakshaykaushik.netlify.app/](https://lakshaykaushik.netlify.app/)
+- 👨‍💻 All of my projects are available at [Lakshay's Portfolio](https://lakshaykaushik.netlify.app/)
 
 - 💬 Ask me about **Full-stack Web-dev, React, Node, Vite, Python, C, C++, and with their Data Structure**
 
