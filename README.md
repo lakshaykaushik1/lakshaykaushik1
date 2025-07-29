@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full-stack Web-dev, React, Node, Vite, Python, C, C++, and with their Data Structure**
 
-- 📫 How to reach me **l.kaushik1@outlook.com**
+- 📫 How to reach me **kaushik.lakshay.0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
