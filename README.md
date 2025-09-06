@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay Kaushik</h1>
-<h3 align="center">"Full-Stack Web Developer | B.Tech EEE Student at Dronacharya College of Engineering | Tech Enthusiast"</h3>
+<h3 align="center">"CTO @ E-Cell DCE | Full-Stack Web Developer | B.Tech EEE Student at Dronacharya College of Engineering | Tech Enthusiast"</h3>
 
 - 🔭 I’m currently working on [EduMentor-AI](https://edumentor-ai.netlify.app/)
 
